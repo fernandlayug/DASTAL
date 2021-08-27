@@ -6,7 +6,7 @@ int main()
 
 int i, n, arr[20];
 
-printf("Enter the number of elements in the array: ");
+printf("Enter the number15 of elements in the array: ");
 scanf("%d", &n);
 for(i=0; i < n; i++)
 {
